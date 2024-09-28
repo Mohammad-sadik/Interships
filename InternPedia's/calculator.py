@@ -2,7 +2,7 @@ def welcome():
     print("Welcome to simple console-based calculator application")
     print("You can perform addition, subtraction, multiplication, and division operation")
     print("="*50)
-
+#1233
 def operation():
     return input("Enter operator: '/', '*', '-', '+' (or) type 'exit' to quit: ")
 
